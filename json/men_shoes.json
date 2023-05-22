@@ -1,0 +1,27 @@
+[
+  {
+
+    "id": "0",
+    "name": "UltraBoost Shoes",
+    "category": "Mens Runing",
+    "imageUrl":[
+      "https://e7.pngegg.com/pngimages/937/112/png-clipart-sneakers-skate-shoe-children-s-shoes-sport-fashion-thumbnail.png",
+      "https://wallpapercave.com/wp/wp2831915.png"
+
+    ],
+    "oldPrice": "1899.00",
+    "sizes": [
+      { "size": "6.0", "isSelected": false},
+      { "size": "6.8", "isSelected": false},
+      { "size": "6.9", "isSelected": false},
+      { "size": "6.1", "isSelected": false},
+      { "size": "6.6", "isSelected": false},
+      { "size": "6.3", "isSelected": false},
+      { "size": "6.2", "isSelected": false}
+    ],
+    "price": "79.00",
+    "Description": "Put some pep in your step with adidas",
+    "title": "Adidas Runing Shoes with colling Ventilation"
+  }
+
+]

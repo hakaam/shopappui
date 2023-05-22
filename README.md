@@ -4,7 +4,7 @@ ScreenShots
 
 1.ShopPage
 
-![home](home.PNG)
+![shop](shop.PNG)
 
 2.CartPage
 
